@@ -64,7 +64,9 @@ located [here](https://github.com/JPLee01/Fundamentals_of_Data_Analysis-Project_
 
 ## 4 Problem Statement
 ------------------------------------------------------------------------------------------------
-As part of the project, the student was given a set of instructions which can be viewed [here](https://github.com/JPLee01/Fundamentals_of_Data_Analysis-Project_2020/blob/main/Project%20Instructions.pdf). As seen, within the instructions a problem statement was printed. It stated that XXXX. Specifically, the instruction state the project should:
+As part of the project, the student was given a set of instructions which can be viewed [here](https://github.com/JPLee01/Fundamentals_of_Data_Analysis-Project_2020/blob/main/Project%20Instructions.pdf). As seen, within the instructions a problem statement was printed. It stated that in this project you must perform and explain simple linear regression using Python
+on the powerproduction dataset available on Moodle. The goal is to accurately predict
+wind turbine power output from wind speed values using the data set as a basis. Specifically, the instruction state the project should:
 * Performing simple linear regression on the *powerproduction* data set.
 * An explanation of your regression and an analysis of its accuracy.
 * Research and investigation into other types of regression on the *powerproduction* data set and an analysis of its accuracy.
